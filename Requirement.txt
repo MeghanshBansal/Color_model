@@ -1,0 +1,4 @@
+The program is made in Python version 3.9.6
+The version of tensorflow is 2.6.0
+The version of pandas is 1.3.3
+The version of keras is 2.6.0
